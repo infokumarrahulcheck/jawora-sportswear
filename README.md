@@ -32,3 +32,6 @@ The text and products printed inside each poster are still part of the image. To
 
 ## Latest visual cleanup
 Removed the decorative star beside JAWORA, the extra top navigation and Explore button, slide number/section labels, next-slide prompts, and footer. The three approved artwork images remain stacked in order.
+
+
+Latest update: removed the remaining standalone JAWORA header bar. The page now begins directly with the first supplied artwork image.

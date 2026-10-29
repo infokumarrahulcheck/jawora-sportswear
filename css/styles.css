@@ -23,3 +23,9 @@ nav a,footer a{transition:color .25s,text-shadow .25s}nav a:hover,footer a:hover
 .slide+.slide{border-top:1px solid rgba(36,216,255,.18)}
 .art{width:min(100%,1440px)}
 @media(max-width:720px){.header{padding:14px 18px}.slide{padding-bottom:18px}}
+
+/* Final request: remove the standalone top JAWORA bar completely */
+.header, .logo { display: none !important; }
+main { margin-top: 0; padding-top: 0; }
+.slide:first-child { padding-top: 0; }
+.slide:first-child .art { margin-top: 0; }
