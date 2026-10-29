@@ -28,3 +28,7 @@ The supplied artwork was 1024×1536 pixels. Each image is upscaled to 3072×4608
 Neon ambient gradient, artwork hover shine, gentle desktop pointer tilt, cursor glow, smooth anchor scrolling, mobile menu, and reduced-motion accessibility support.
 
 The text and products printed inside each poster are still part of the image. To animate those elements separately, they must be rebuilt as individual HTML/CSS components. This is a static front-end; cart, product database, admin panel and payment features are not included yet.
+
+
+## Latest visual cleanup
+Removed the decorative star beside JAWORA, the extra top navigation and Explore button, slide number/section labels, next-slide prompts, and footer. The three approved artwork images remain stacked in order.
