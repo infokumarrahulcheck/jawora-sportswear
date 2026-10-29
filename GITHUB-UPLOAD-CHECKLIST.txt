@@ -1,0 +1,10 @@
+JAWORA FINAL — GITHUB PAGES CHECKLIST
+1. Extract this ZIP.
+2. Create repository `jawora-sportswear`.
+3. Upload the extracted folder's CONTENTS, not just the ZIP.
+4. Make sure `index.html` is at repository root.
+5. Click Commit changes.
+6. Settings → Pages → Deploy from a branch.
+7. Select `main` and `/(root)` then Save.
+8. Wait for the live URL to appear in Settings → Pages.
+See README.md for full instructions.
